@@ -29,17 +29,16 @@ In this project you will be working with team members using Git and Github to de
 - Use State and Component Lifecycle concepts.
 - At least 5 routes/Pages. 
 - Styling your project.
-- Connect to your Back-End using Axios.
-- Deployment.
+- Connect to your Back-End using Axios/fetch.
+- Deployment(Bonus).
 
 ### Back-End Requirment
-- At least 3 Routes.
-- At least 4 Models.
-- At least 15 Endpoints (Including CRUD endpoints).
+- At least 3 Models.
+- At least 10 Endpoints/routes (Including CRUD endpoints).
 - At least 2 Types of users.
 - Database Connection .
-- At least 2 Relationships in the database.
+- At least 1 Relationship in the database.
 - JWT Authentication.
 - Make sure to use suitable HTTP status codes for your endpoints.
 - Validation.
-- Deployment.
+- Deployment (Bonus).
