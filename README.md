@@ -28,7 +28,7 @@ In this project you will be working with team members using Git and Github to de
 - At least 7 Components.
 - Use State and Component Lifecycle concepts.
 - At least 5 routes/Pages. 
-- Styling your project.
+- Styling your project (ChakraUI Bonus).
 - Connect to your Back-End using Axios/fetch.
 - Deployment(Bonus).
 
